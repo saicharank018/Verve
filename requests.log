@@ -1,0 +1,3 @@
+2024/11/30 23:35:22 Connected to Redis
+2024/11/30 23:35:52 Failed to connect to Kafka: kafka: client has run out of available brokers to talk to: dial tcp [::1]:9092: connect: connection refused
+2024/11/30 23:36:20 Connected to Redis
